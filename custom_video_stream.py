@@ -12,7 +12,7 @@ fps = 10
 true_logging = False #used in the detectCustomObjectsFromViceo function
 logging = True #for frame custom logging
 confidence = 30 #30% confidence required to detect
-target_size = 80 #Object must be within 10x10px rectangle around center
+target_size = 80 #Size of a length of targeting rectangle
 
 expath = os.getcwd() #Current execution directory
 
