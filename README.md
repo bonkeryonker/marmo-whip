@@ -4,4 +4,5 @@ Recognize humanoid targets using the python [ImageAI](https://github.com/Olafenw
 
 ## Dependencies
 
-- [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+- Python 3.7 (Latest version compatible with Tensorflow v1.14.0, required for ImageAI)
+- [ImageAI](https://github.com/OlafenwaMoses/ImageAI) v2.1.5
